@@ -1,7 +1,3 @@
 testing_merge
 added locally
-<<<<<<< HEAD
 Added locally 2nd time
-=======
-added few lines in github
->>>>>>> 3a5df0b967e2abf27449428a3668cf0f273dc3bd
